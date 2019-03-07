@@ -33,7 +33,7 @@ Take a few minutes to understand the data, you can use the `?diamonds` command t
 Part II
 -------
 
-I have made a script containing code for running a neural network based regression with cross validation, which you can find [here](../R/session_3_diamonds_regression.R)
+I have made a script containing code for running a neural network based regression with cross validation, which you can find [here](../R/session_3_diamonds_regression.R) (This script is also in the directory `/R` of your RStudio session)
 
 1.  Open the script in your RStudio session
 2.  Make sure the script can run
