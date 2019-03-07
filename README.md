@@ -50,7 +50,7 @@ Workshop Schedule
 **Session 1**
 
 -   17.30 - 17.50 (20 min) Lecture: *Introduction to Workshop* \[[slides](http://htmlpreview.github.io/?https://github.com/leonjessen/CPHRANNworkshop/blob/master/lectures/session_1_introduction_to_workshop.html)\]
--   17.50 - 18.15 (25 min) Exercise: *Prototyping an Artificial Neural Network in Base R* \[[Link](https://github.com/leonjessen/CPHRANNworkshop/blob/master/01_intro_to_ANNs/exercises/01_exercises.md)\]
+-   17.50 - 18.15 (25 min) Exercise: *Prototyping an Artificial Neural Network in Base R* \[[Link](exercises/session_1_prototyping_an_artificial_neural_network_in_base_R.md)\]
 
 -   18.15 - 18.30 (15 min) *Break*
 
