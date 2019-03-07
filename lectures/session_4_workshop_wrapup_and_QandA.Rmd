@@ -1,0 +1,87 @@
+---
+title: "Workshop Wrapup and Q&A"
+subtitle: "CPHRANN Workshop, Session 4"
+author: "Leon Eyrich Jessen"
+date: "March 7th 2019"
+output:
+  ioslides_presentation:
+    widescreen: true
+    smaller: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Summary
+
+- ANNs are
+    - Able to capture higher order correlations and context dependence
+    - Universal approximators
+    - Extremely powerful in predictive modelling
+    - Prone to overfitting
+
+## A few tips, tricks and words of advice...
+
+- Be sure, that you “need” Deep Learning
+- Create a base learner using a simple approach, e.g. linear- or logistic regression model
+- Up the complexicity with e.g. a random forest model
+- Do a simple neural network, e.g. 1 input, 1 hidden and 1 output
+- Go full deep learning
+- Record the performance in each of the steps
+- If you max out using a logistic regression, then proceed no further
+- Be aware that what you gain in performance, you may loose in model interpretability
+- Be very careful with overfitting, a predictive model only works, if it can actually extrapolate on unseen data
+- Check your data and partitions prior to modelling, sparsity, order, balance, etc.
+
+## Workshop Yield
+
+- I hope you are leaving the workshop today with a better understanding of ANNs, Keras and TensorFlow
+
+- I will leave the workshop github repo as is, so please feel free to revisit later
+
+- If you are working on research projects, where you think that machine learning in bioinformatics has a role to play, please feel free to contact me
+
+## Learning Objectives
+
+I.e. what can you expect to take away from this workshop: A workshop participant who has met the objectives of the workshop, will be able to:
+
+- Conceptually explain what an ANN model is, how it is constructed, trained using the backpropagation algorithm and how predictions are made using the feed forward algorithm
+
+- Construct, train, tune and predict with a simple ANN model created using `tensorflow` via `keras` in the `R` programming language
+
+- Discuss ANN model pitfalls and how to address these using e.g. cross validation
+
+- I hope we arrived at our destination?
+
+## Closing Remarks
+
+- TensorFlow for R is extremely powerful and flexible and allows you to create and deploy complex models in a relatively simple fashion
+
+- Model building ends up being not about the code, but about mapping your problem and the data and the tools you have together to get a good solution
+
+- The hard part about deep learning is not generally writing the code, the hard part is figuring out what sort of model to build, i.e. architecture and hyper paremeters, that's where all the time is spend!
+
+## 
+
+```{r, out.width = "500px", fig.align="center"}
+knitr::include_graphics("figures/no_scream.png")
+```
+
+## Workshop Wrapup
+
+### Q&A and workshop feedback
+
+I welcome questions, comments, any feedback you may have?
+
+### Acknowledgements
+
+I wish to thank RStudio for kindly sponsoring the Amazon Web Services (AWS) - Cloud Computing Services we have been using for this workshop
+
+### Did you like this workshop? Would like to get further into data science in R?
+
+Then I recently co-founded nordicdatalab - An R training provider. Next `Data Science in R` course will be May 20-21st 2019 at Frederiksberg, Copenhagen. If you book a seat at the course and write `CPHRANN` in the comments, you will get a 10% CopenhagenR useR discount. More info at [https://nordicdatalab.dk/](https://nordicdatalab.dk/)
+
+```{r, out.width = "500px", fig.align="center"}
+knitr::include_graphics("figures/nordicdatalab_logo.png")
+```

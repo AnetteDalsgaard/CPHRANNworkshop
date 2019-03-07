@@ -1,0 +1,27 @@
+---
+title: "Introduction to TensorFlow"
+subtitle: "CPHRANN Workshop, Session 2"
+author: "Leon Eyrich Jessen"
+date: "March 7th 2019"
+output:
+  ioslides_presentation:
+    widescreen: true
+    smaller: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Why are Artificial Neural Networks so powerful?
+
+- ANNs capture context dependence!
+    - I.e. the “meaning” of each variable depends not only on its observed value, but also on the context in which it was observed
+
+```{r, out.width = "600px", fig.align="center"}
+knitr::include_graphics("figures/HUMAN.png")
+```
+
+- They are universal Approximators
+    - Using an ANN we can approximate function
+    - We can illustrate the meaning of this with a small exercise using [TensorFlow Playground](https://playground.tensorflow.org)
