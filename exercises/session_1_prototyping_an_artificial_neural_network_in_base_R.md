@@ -4,7 +4,7 @@ CPHRANN Workshop, Session 2
 Prototyping an Artificial Neural Network in Base R
 --------------------------------------------------
 
-Below here, you will find a simple Aritifical Neural Network implemented in base R. [a relative link](R/test.R)
+Below here, you will find a simple Aritifical Neural Network implemented in base R. [a relative link](../R/test.R)
 
 *Your task is to copy the code to your editor of choice, make the script run and tune the hyperparameters to get a working model*
 
