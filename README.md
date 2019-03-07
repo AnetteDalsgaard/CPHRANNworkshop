@@ -58,11 +58,11 @@ Workshop Schedule
 
 -   18.30 - 18.35 (5 min) Lecture: *Introduction to TensorFlow* \[[slides](http://htmlpreview.github.io/?https://github.com/leonjessen/CPHRANNworkshop/blob/master/lectures/session_2_introduction_to_tensorflow.html)\]
 
--   18.35 - 18.50 (25 min) Exercise: *The TensorFlow Playground* \[[Link](https://github.com/leonjessen/CPHRANNworkshop/blob/master/02_intro_to_TF/exercises/02_tensorflow_playground.md)\]
+-   18.35 - 18.50 (25 min) Exercise: *The TensorFlow Playground* \[[Link](exercises/session_2_the_tensorflow_playground.md)\]
 
 -   18.50 - 18.55 (5 min) Lecture: *Introduction to TensorFlow Continued* \[[slides](http://htmlpreview.github.io/?https://github.com/leonjessen/CPHRANNworkshop/blob/master/lectures/session_2_introduction_to_tensorflow_continued.html)\]
 
--   18.55 - 19.15 (20 min) Exercise: *Building a simple neural network using Keras and Tensorflow* \[[Link](https://github.com/leonjessen/CPHRANNworkshop/blob/master/02_intro_to_TF/exercises/02_simple_keras_ann.md)\]
+-   18.55 - 19.15 (20 min) Exercise: *Building a simple neural network using Keras and Tensorflow* \[[Link](exercises/session_2_building_a_simple_neural_network_using_keras_and_tensorflow.md)\]
 
 -   19.15 - 19.30 (15 min) *Break*
 
