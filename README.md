@@ -70,7 +70,9 @@ Workshop Schedule
 
 -   19.30 - 19.45 (15 min) Lecture: *Introduction to Model Validation* \[[slides](http://htmlpreview.github.io/?https://github.com/leonjessen/CPHRANNworkshop/blob/master/03_intro_to_model_validation/lecture/03_intro_to_model_validation.html)\]
 
--   19.45 - 20.15 (30 min) Exercise: *Regression on diamonds with Cross Validation* \[[Link](https://github.com/leonjessen/CPHRANNworkshop/blob/master/03_intro_to_model_validation/exercises/03_diamond_regr_with_cv.md)\]
+-   19.45 - 20.15 (30 min) Exercise: *Regression on `diamonds` with Cross Validation* \[[Link](https://github.com/leonjessen/CPHRANNworkshop/blob/master/03_intro_to_model_validation/exercises/03_diamond_regr_with_cv.md)\]
+
+**Session 4**
 
 -   20.15 - 20.30 (15 min) Lecture: *Workshop Wrap Up and Q&A* \[[slides](http://htmlpreview.github.io/?https://github.com/leonjessen/CPHRANNworkshop/blob/master/04_wrap_up/lecture/04_wrap_up.html)\]
 
