@@ -1,4 +1,4 @@
-CPHRANN Workshop, Session 3
+CPHRANN Workshop, Session 2
 ================
 
 The TensorFlow Playground
