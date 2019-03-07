@@ -4,7 +4,7 @@ CPHRANN Workshop, Session 2
 Prototyping an Artificial Neural Network in Base R
 --------------------------------------------------
 
-You will find a simple Artifical Neural Network implemented in base R [here](../R/session_1_prototyping_an_artificial_neural_network_in_base_R.R)
+You will find a simple Artifical Neural Network implemented in base R [here](../R/session_1_prototyping_an_artificial_neural_network_in_base_R.R) (This script is also in the directory `/R` of your RStudio session)
 
 *Your task is to, make the script run and find and tune the hyperparameters `n_hidden`, `epochs` and `epsilon` to get a working model*
 
