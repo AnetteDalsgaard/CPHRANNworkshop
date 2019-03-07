@@ -4,7 +4,7 @@ CPHRANN Workshop, Session 2
 Building a simple neural network using Keras and Tensorflow
 -----------------------------------------------------------
 
-Do not execute the following, just read through it, the exercises are at the bottom of this page.
+Do not execute the following, just read through it, the exercises are at the bottom of this page. The purpose is for you to get a feeling for a 'standard' keras modelling workflow
 
 ### 1. Prepare Data
 
