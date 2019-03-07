@@ -49,18 +49,18 @@ Workshop Schedule
 
 **Session 1**
 
--   17.30 - 17.50 (20 min) Lecture: *Introduction to Workshop* \[[slides](http://htmlpreview.github.io/?https://github.com/leonjessen/CPHRANNworkshop/blob/master/01_intro_to_ANNs/lecture/01_introduction_to_neural_networks.html)\]
+-   17.30 - 17.50 (20 min) Lecture: *Introduction to Workshop* \[[slides](http://htmlpreview.github.io/?https://github.com/leonjessen/CPHRANNworkshop/blob/master/lectures/session_1_introduction_to_workshop.html)\]
 -   17.50 - 18.15 (25 min) Exercise: *Prototyping an Artificial Neural Network in Base R* \[[Link](https://github.com/leonjessen/CPHRANNworkshop/blob/master/01_intro_to_ANNs/exercises/01_exercises.md)\]
 
 -   18.15 - 18.30 (15 min) *Break*
 
 **Session 2**
 
--   18.30 - 18.35 (5 min) Lecture: *Introduction to TensorFlow* \[[slides](http://htmlpreview.github.io/?https://github.com/leonjessen/CPHRANNworkshop/blob/master/02_intro_to_TF/lecture/02_introduction_to_tensorflow.html#1)\]
+-   18.30 - 18.35 (5 min) Lecture: *Introduction to TensorFlow* \[[slides](http://htmlpreview.github.io/?https://github.com/leonjessen/CPHRANNworkshop/blob/master/lectures/session_2_introduction_to_tensorflow.html)\]
 
 -   18.35 - 18.50 (25 min) Exercise: *The TensorFlow Playground* \[[Link](https://github.com/leonjessen/CPHRANNworkshop/blob/master/02_intro_to_TF/exercises/02_tensorflow_playground.md)\]
 
--   18.50 - 18.55 (5 min) Lecture: *Introduction to TensorFlow Continued* \[[slides](http://htmlpreview.github.io/?https://github.com/leonjessen/CPHRANNworkshop/blob/master/02_intro_to_TF/lecture/02_introduction_to_tensorflow_continued.html#1)\]
+-   18.50 - 18.55 (5 min) Lecture: *Introduction to TensorFlow Continued* \[[slides](http://htmlpreview.github.io/?https://github.com/leonjessen/CPHRANNworkshop/blob/master/lectures/session_2_introduction_to_tensorflow_continued.html)\]
 
 -   18.55 - 19.15 (20 min) Exercise: *Building a simple neural network using Keras and Tensorflow* \[[Link](https://github.com/leonjessen/CPHRANNworkshop/blob/master/02_intro_to_TF/exercises/02_simple_keras_ann.md)\]
 
@@ -68,13 +68,13 @@ Workshop Schedule
 
 **Session 3**
 
--   19.30 - 19.45 (15 min) Lecture: *Introduction to Model Validation* \[[slides](http://htmlpreview.github.io/?https://github.com/leonjessen/CPHRANNworkshop/blob/master/03_intro_to_model_validation/lecture/03_intro_to_model_validation.html)\]
+-   19.30 - 19.45 (15 min) Lecture: *Introduction to Model Validation* \[[slides](http://htmlpreview.github.io/?https://github.com/leonjessen/CPHRANNworkshop/blob/master/lectures/session_3_introduction_to_model_validation.html)\]
 
 -   19.45 - 20.15 (30 min) Exercise: *Regression on `diamonds` with Cross Validation* \[[Link](https://github.com/leonjessen/CPHRANNworkshop/blob/master/03_intro_to_model_validation/exercises/03_diamond_regr_with_cv.md)\]
 
 **Session 4**
 
--   20.15 - 20.30 (15 min) Lecture: *Workshop Wrap Up and Q&A* \[[slides](http://htmlpreview.github.io/?https://github.com/leonjessen/CPHRANNworkshop/blob/master/04_wrap_up/lecture/04_wrap_up.html)\]
+-   20.15 - 20.30 (15 min) Lecture: *Workshop Wrap Up and Q&A* \[[slides](http://htmlpreview.github.io/?https://github.com/leonjessen/CPHRANNworkshop/blob/master/lectures/session_4_workshop_wrapup_and_QandA.html)\]
 
 Resources
 ---------
