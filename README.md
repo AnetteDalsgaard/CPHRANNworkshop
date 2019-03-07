@@ -47,6 +47,8 @@ Workshop Schedule
 
 *Since we only have 3 hours, we are on a bit of a tight schedule, so please follow the timing. This GitHub repo will remain active after the workshop, so you can revisit the workshop material.*
 
+NB! The slide links seem not to load properly. Go to your RStudio session and find the `html` files in the `exercises` directory, left-click on e.g. `session_1_introduction_to_workshop.html` and choose 'View in Web Browser'.
+
 **Session 1**
 
 -   17.30 - 17.50 (20 min) Lecture: *Introduction to Workshop* \[[slides](http://htmlpreview.github.io/?https://github.com/leonjessen/CPHRANNworkshop/blob/master/lectures/session_1_introduction_to_workshop.html)\]
@@ -58,11 +60,11 @@ Workshop Schedule
 
 -   18.30 - 18.35 (5 min) Lecture: *Introduction to TensorFlow* \[[slides](http://htmlpreview.github.io/?https://github.com/leonjessen/CPHRANNworkshop/blob/master/lectures/session_2_introduction_to_tensorflow.html)\]
 
--   18.35 - 18.50 (25 min) Exercise: *The TensorFlow Playground* \[[Link](exercises/session_2_the_tensorflow_playground.md)\]
+-   18.35 - 18.45 (20 min) Exercise: *The TensorFlow Playground* \[[Link](exercises/session_2_the_tensorflow_playground.md)\]
 
--   18.50 - 18.55 (5 min) Lecture: *Introduction to TensorFlow Continued* \[[slides](http://htmlpreview.github.io/?https://github.com/leonjessen/CPHRANNworkshop/blob/master/lectures/session_2_introduction_to_tensorflow_continued.html)\]
+-   18.45 - 18.50 (5 min) Lecture: *Introduction to TensorFlow Continued* \[[slides](http://htmlpreview.github.io/?https://github.com/leonjessen/CPHRANNworkshop/blob/master/lectures/session_2_introduction_to_tensorflow_continued.html)\]
 
--   18.55 - 19.15 (20 min) Exercise: *Building a simple neural network using Keras and Tensorflow* \[[Link](exercises/session_2_building_a_simple_neural_network_using_keras_and_tensorflow.md)\]
+-   18.50 - 19.15 (25 min) Exercise: *Building a simple neural network using Keras and Tensorflow* \[[Link](exercises/session_2_building_a_simple_neural_network_using_keras_and_tensorflow.md)\]
 
 -   19.15 - 19.30 (15 min) *Break*
 
