@@ -8,7 +8,7 @@ Getting started
 
 ### Cloud Solution
 
-[RStudio](https://www.rstudio.com/) has kindly sponsored 100 [m5.large (3.1 GHz, 2CPU, 8GB ram) EC2 AWS instances](https://aws.amazon.com/ec2/instance-types/). These have been preinstalled with the following R-packages: `keras`, `tidyverse`, `broom` and `cowplot`. At the workshop, you will be given instructions on how to access an instance.
+[RStudio](https://www.rstudio.com/) has kindly sponsored 100 [m5.large (3.1 GHz, 2CPU, 8GB ram) EC2 AWS instances](https://aws.amazon.com/ec2/instance-types/). These have been preinstalled with the following R-packages: `keras`, `tidyverse`, `broom`, `cowplot` and a few others. At the workshop, you will be given instructions on how to access an instance. If you are new to instances, just think of it as running RStudio in the browser.
 
 ### Local Solution
 
@@ -42,22 +42,37 @@ dim(mnist$train$x)
 
 Congratulations! That's it! Now you're ready for the workshop! </details>
 
-At the Workshop
----------------
+Workshop Schedule
+-----------------
 
-### Schedule
+*Since we only have 3 hours, we are on a bit of a tight schedule, so please follow the timing. This GitHub repo will remain active after the workshop, so you can revisit the workshop material.*
 
--   17.30 - 17.50 Session 1, part I: Lecture - Introduction to Neural Networks \[[slides](http://htmlpreview.github.io/?https://github.com/leonjessen/CPHRANNworkshop/blob/master/01_intro_to_ANNs/lecture/01_introduction_to_neural_networks.html)\] (MathJax not supported by GitHub html preview. To view slides, [download](https://raw.githubusercontent.com/leonjessen/CPHRANNworkshop/master/01_intro_to_ANNs/lecture/01_introduction_to_neural_networks.html) and open with your browser)
--   17.50 - 18.15 Session 1, part II: Exercise - Simple Artificial Neural Network in Base R \[[Link](https://github.com/leonjessen/CPHRANNworkshop/blob/master/01_intro_to_ANNs/exercises/01_exercises.md)\]
--   18.15 - 18.30 Break
--   18.30 - 18.35 Session 2, part I: Lecture - Introduction to TensorFlow \[[slides](http://htmlpreview.github.io/?https://github.com/leonjessen/CPHRANNworkshop/blob/master/02_intro_to_TF/lecture/02_introduction_to_tensorflow.html#1)\]
--   18.35 - 18.50 Session 2, part II: Exercise - TensorFlow Playground \[[Link](https://github.com/leonjessen/CPHRANNworkshop/blob/master/02_intro_to_TF/exercises/02_tensorflow_playground.md)\]
--   18.50 - 18.55 Session 2, part III: Lecture - Introduction to TensorFlow Continued \[[slides](http://htmlpreview.github.io/?https://github.com/leonjessen/CPHRANNworkshop/blob/master/02_intro_to_TF/lecture/02_introduction_to_tensorflow_continued.html#1)\]
--   18.55 - 19.15 Session 2, part IV: Exercise - Building a simple neural network using Keras and Tensorflow \[[Link](https://github.com/leonjessen/CPHRANNworkshop/blob/master/02_intro_to_TF/exercises/02_simple_keras_ann.md)\]
--   19.15 - 19.30 Break
--   19.30 - 19.45 Session 3, part I: Lecture - Introduction to Model Validation \[[slides](http://htmlpreview.github.io/?https://github.com/leonjessen/CPHRANNworkshop/blob/master/03_intro_to_model_validation/lecture/03_intro_to_model_validation.html)\]
--   19.45 - 20.15 Session 3, part II: Exercise - Regression on diamonds with Cross Validation \[[Link](https://github.com/leonjessen/CPHRANNworkshop/blob/master/03_intro_to_model_validation/exercises/03_diamond_regr_with_cv.md)\]
--   20.15 - 20.30 Session 4, Workshop Wrap Up and Q&A \[[slides](http://htmlpreview.github.io/?https://github.com/leonjessen/CPHRANNworkshop/blob/master/04_wrap_up/lecture/04_wrap_up.html)\]
+**Session 1**
+
+-   17.30 - 17.50 (20 min) Lecture: *Introduction to Workshop* \[[slides](http://htmlpreview.github.io/?https://github.com/leonjessen/CPHRANNworkshop/blob/master/01_intro_to_ANNs/lecture/01_introduction_to_neural_networks.html)\]
+-   17.50 - 18.15 (25 min) Exercise: *Prototyping an Artificial Neural Network in Base R* \[[Link](https://github.com/leonjessen/CPHRANNworkshop/blob/master/01_intro_to_ANNs/exercises/01_exercises.md)\]
+
+-   18.15 - 18.30 (15 min) *Break*
+
+**Session 2**
+
+-   18.30 - 18.35 (5 min) Lecture: *Introduction to TensorFlow* \[[slides](http://htmlpreview.github.io/?https://github.com/leonjessen/CPHRANNworkshop/blob/master/02_intro_to_TF/lecture/02_introduction_to_tensorflow.html#1)\]
+
+-   18.35 - 18.50 (25 min) Exercise: *The TensorFlow Playground* \[[Link](https://github.com/leonjessen/CPHRANNworkshop/blob/master/02_intro_to_TF/exercises/02_tensorflow_playground.md)\]
+
+-   18.50 - 18.55 (5 min) Lecture: *Introduction to TensorFlow Continued* \[[slides](http://htmlpreview.github.io/?https://github.com/leonjessen/CPHRANNworkshop/blob/master/02_intro_to_TF/lecture/02_introduction_to_tensorflow_continued.html#1)\]
+
+-   18.55 - 19.15 (20 min) Exercise: *Building a simple neural network using Keras and Tensorflow* \[[Link](https://github.com/leonjessen/CPHRANNworkshop/blob/master/02_intro_to_TF/exercises/02_simple_keras_ann.md)\]
+
+-   19.15 - 19.30 (15 min) *Break*
+
+**Session 3**
+
+-   19.30 - 19.45 (15 min) Lecture: *Introduction to Model Validation* \[[slides](http://htmlpreview.github.io/?https://github.com/leonjessen/CPHRANNworkshop/blob/master/03_intro_to_model_validation/lecture/03_intro_to_model_validation.html)\]
+
+-   19.45 - 20.15 (30 min) Exercise: *Regression on diamonds with Cross Validation* \[[Link](https://github.com/leonjessen/CPHRANNworkshop/blob/master/03_intro_to_model_validation/exercises/03_diamond_regr_with_cv.md)\]
+
+-   20.15 - 20.30 (15 min) Lecture: *Workshop Wrap Up and Q&A* \[[slides](http://htmlpreview.github.io/?https://github.com/leonjessen/CPHRANNworkshop/blob/master/04_wrap_up/lecture/04_wrap_up.html)\]
 
 Resources
 ---------
