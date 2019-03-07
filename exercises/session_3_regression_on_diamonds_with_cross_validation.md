@@ -1,4 +1,4 @@
-CPHRANN Workshop, Session 2
+CPHRANN Workshop, Session 3
 ================
 
 Regression on `diamonds` with Cross Validation
